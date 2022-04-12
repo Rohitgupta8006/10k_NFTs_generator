@@ -1,0 +1,48 @@
+{
+  "name": "Dinomonz's Collection #5",
+  "description": "Dinomonz NFT Collection",
+  "image": "ipfs://NewUriToReplace/5.png",
+  "dna": "f247f4193d55a0187a11b0485f67d42540d39be4",
+  "edition": 5,
+  "date": 1649745251521,
+  "creator": "Dinomonz's Team",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "NtfProject"
+    },
+    {
+      "trait_type": "BaseLayer",
+      "value": "Base"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Key"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "3DGlasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Suspenders"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "greenHorn"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Dinomonz's Collection #1",
+  "description": "Dinomonz NFT Collection",
+  "image": "ipfs://NewUriToReplace/1.png",
+  "dna": "b78580fca189c359fec81ab9bfdd719ea3c07628",
+  "edition": 1,
+  "date": 1649745233482,
+  "creator": "Dinomonz's Team",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "orangishred"
+    },
+    {
+      "trait_type": "BaseLayer",
+      "value": "Base"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Rose"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "3DGlasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "RainbowTongue"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Bluepointy"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Suspenders"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Hailo"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

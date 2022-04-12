@@ -1,0 +1,48 @@
+{
+  "name": "Dinomonz's Collection #13",
+  "description": "Dinomonz NFT Collection",
+  "image": "ipfs://NewUriToReplace/13.png",
+  "dna": "3f0cda3cef62cbbdbce414697506f140e8ab2ef1",
+  "edition": 13,
+  "date": 1649745269048,
+  "creator": "Dinomonz's Team",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "orangishred"
+    },
+    {
+      "trait_type": "BaseLayer",
+      "value": "Base"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Key"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "3DGlasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "RainbowTongue"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "TurtleneckSweater"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "ChefHat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
